@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](#) Frontd-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![Image](images/screen.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
